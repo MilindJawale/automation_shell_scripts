@@ -1,0 +1,20 @@
+22-06-27-12-13-01: cache is beloe 100 MB
+22-06-27-12-14-01: cache is beloe 100 MB
+22-06-27-12-15-01: cache is beloe 100 MB
+22-06-27-12-16-01: cache is beloe 100 MB
+22-06-27-12-17-01: cache is beloe 100 MB
+22-06-27-12-18-01: cache is beloe 100 MB
+22-06-27-12-19-01: cache is beloe 100 MB
+22-06-27-12-20-01: cache is beloe 100 MB
+22-06-27-12-21-01: cache is beloe 100 MB
+22-06-27-12-22-01: cache is beloe 100 MB
+22-06-27-12-23-01: cache is beloe 100 MB
+22-06-27-12-24-01: cache is beloe 100 MB
+22-06-27-12-25-01: cache is beloe 100 MB
+22-06-27-12-26-01: cache is beloe 100 MB
+22-06-27-12-27-02: cache is beloe 100 MB
+22-06-27-12-28-01: cache is beloe 100 MB
+22-06-27-12-29-01: cache is beloe 100 MB
+22-06-27-12-30-01: 81 MB cache cleared
+22-06-27-12-31-01: 123 MB cache cleared
+22-06-27-12-32-01: cache is beloe 100 MB
